@@ -32,7 +32,7 @@ height = float(input("Enter the height of a rectangle: "))
 
 volume = length*breadth*height
 
-print(f"The area is: {volume}cm^3")
+print(f"The volume is: {volume}cm^3")
 
 # Shopping Cart (Exercise 4)
 item = input("What item would you like to buy?: ")
