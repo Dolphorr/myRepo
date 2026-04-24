@@ -7,7 +7,8 @@ This repository contains my Python practice files as I learn the language.
 - Type casting
 - User input
 - Math module
-- Basic arithmetic operations
+- Conditionals
+- Basic Python Calculator
 
 ## Goal
 Track my progress in Python step by step.
