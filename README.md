@@ -24,7 +24,8 @@ This repository contains my Python practice files as I learn the language.
 - User input
 - Math module
 - Conditionals
-- Basic Python Calculator
+- Basic Python calculator
+- Weight conversion exercise
 
 ## Goal
 Track my progress in Python step by step.
