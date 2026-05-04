@@ -5,7 +5,6 @@
 
 # Explicit Typecasting:
 
-
 # Variables
 name = "Dolphor"
 age = 13
@@ -41,7 +40,6 @@ print(type(is_student))
 
 
 # Implicit Typecasting:
-
 
 x = 2
 y = 2.0

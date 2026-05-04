@@ -2,6 +2,7 @@
 #            A variable behaves as if it was the value it contains.
 
 # Strings
+
 name = "Dolphor"
 food = "pizza"
 email = "dolphor.business@gmail.com"
@@ -11,6 +12,7 @@ print(f"You like {food}.")
 print(f"Your email is: {email}")
 
 # Integers
+
 age = 13
 quantity = 3
 num_of_students = 30
@@ -20,6 +22,7 @@ print(f"You are buying {quantity} items.")
 print(f"Your class has {num_of_students} students.")
 
 # Floats
+
 price = 10.99
 gpa = 3.5
 distance = 5.5
@@ -29,6 +32,7 @@ print(f"Your gpa is: {gpa}/4")
 print(f"You ran {distance}km")
 
 # Booleans
+
 is_student = True
 for_sale = True
 is_online = True

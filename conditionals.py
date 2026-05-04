@@ -2,6 +2,7 @@
 #      Else do something else
 
 # Eligibility to sign-up
+
 age = int(input("Enter your age: "))
 
 if age < 0:
@@ -14,6 +15,7 @@ else:
     print("You must be 18+ to sign up.")
 
 # Ordering Food (Exercise 1)
+
 response = input("Would you like food? (Y/N): ")
 
 if response == "Y":
@@ -22,6 +24,7 @@ else:
     print("No food for you!")
 
 # Name collection (Exercise 2)
+
 name = input("Enter your name: ")
 
 if name == "":
@@ -30,6 +33,7 @@ else:
     print(f"Hello {name}")
 
 # Use of Bools in conditions
+
 for_sale = True
 
 if for_sale: # if the var (for_sale)'s value is True, do something, else do another thing.

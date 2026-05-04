@@ -1,2 +1,2 @@
 # Python Learning Repo
-This repository contains my Python practice files as I learn the language.
+This Github repository contains my python learning files and programs as I learn the language.
